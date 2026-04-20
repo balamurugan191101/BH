@@ -795,11 +795,6 @@
                 font-size: 0.9rem;
             }
 
-            .flipbook {
-                max-width: 90%;
-                height: auto;
-            }
-
             .cake-wrapper {
                 transform: scale(0.85);
             }
