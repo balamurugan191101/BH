@@ -804,22 +804,28 @@
                 height: 280px;
             }
 
+             .book-wrapper {
+                position: relative;
+                margin-right: 150px !important;
+                perspective: 2000px;
+                width: 100%;
+                max-width: 150px !important;
+                
+                
+            }
+
             .flipbook {
-                width: 95%;
-                max-width: 500px;
-                height: 300px;
+                margin-right: 150px !important;
+                max-width: 300px !important;
+                height: 80px;
             }
 
             .flipbook .page {
-                font-size: 16px;
-            }
-
-            .flipbook .page p {
-                font-size: 16px;
+                font-size: 14px;
             }
 
             .flipbook .hard {
-                font-size: 22px;
+                font-size: 18px;
             }
         }
 
